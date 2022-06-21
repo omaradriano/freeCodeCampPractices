@@ -1,0 +1,12 @@
+Reg Ex = Regular Expressions
+
+Es una serie de simbolos que permiten definir patrones de busqueda en cadenas de texto
+
+'Cuando tienes un problema y lo debes de resolver con una expresion regular, entonces tienes dos problemas' XD
+
+*Ahorran lineas de codigo
+*Ahorro de recursos
+*Pueden utilizarse en diferentes contextos o situaciones
+
+El punto(.) es cualquier caracter con los espacios incluidos
+
